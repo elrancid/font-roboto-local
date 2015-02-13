@@ -1,0 +1,29 @@
+{
+  "name": "font-roboto-local",
+  "version": "0.5.4",
+  "authors": [
+    "Davide Zeffiro <elrancid@gmail.com>"
+  ],
+  "description": "Polymer local version of Polymer/font-roboto: (https://github.com/Polymer/font-roboto)",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "font",
+    "local",
+    "roboto"
+  ],
+  "main": "roboto.html",
+  "license": "MIT",
+  "homepage": "https://github.com/elrancid/font-roboto-local",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  },
+  "devDependencies": {
+    "web-component-tester": "*"
+  }
+}
