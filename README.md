@@ -3,6 +3,11 @@ font-roboto-local
 
 See the [component page](https://github.com/elrancid/font-roboto-local) for more information.
 
+## DEPRECATED:
+
+Warning: use this repo only for polymer 0.5. For polymer 1.0 there is the official
+[PolymerElements/font-roboto-local](https://github.com/PolymerElements/font-roboto-local) repo.
+
 ## Getting Started
 
 `font-roboto-local` is a replacement for `font-roboto` for the local use.
